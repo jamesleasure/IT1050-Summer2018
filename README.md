@@ -1,10 +1,9 @@
-#Header
-##Header
-###Header
-####Header
-#####Header
-######Header
-
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
 
 
 Colons can be used to align columns.
